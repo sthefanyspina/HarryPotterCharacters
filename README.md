@@ -11,19 +11,26 @@ You can find all the Harry Potter Characters in one place and you can also searc
 **Live Demo:** https://harry-potter-characters-website-zeta.vercel.app/
 
 ## Built With
-The website is made using simple HTML, CSS & JavaScript. 
+The website was made using simple HTML, CSS & JavaScript. 
+
+### HTML
+Concepts of div;
+
+Concepts of input.
 
 ### CSS
-Used the concepts of Grid Layout e Flexbox
+Concepts of class selector;
+
+Concepts of Grid Layout e Flexbox
 
 ### Javascript
-Map function used to created a more efficient list.
+Map function used to create a more efficient list;
 
-Join function used to created to transform lists into strings.
+Join function used to create to transform lists into strings;
 
 Fetch API used to make requests.
 
 ## Features
-Template with the name of character, house, actor and species.
+Template with the name of character, house, actor and species;
 
 Search characters by name, house or actor.
