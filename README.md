@@ -10,6 +10,8 @@ You can find all the Harry Potter Characters in one place and you can also searc
 
 **Live Demo:** https://harry-potter-characters-website-zeta.vercel.app/
 
+**Video Demo:** https://youtu.be/XNfJkbfhM3c?si=3LYSV599kWUE7oqw
+
 ## Built With
 The website was made using simple HTML, CSS & JavaScript. 
 
